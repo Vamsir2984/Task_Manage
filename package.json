@@ -1,0 +1,14 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "description": "Task Tracker CLI",
+  "main": "task_manager.js",
+  "bin": {
+    "task_manager": "./task_manager.js"
+  },
+  "scripts": {
+    "start": "node task_manager.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
